@@ -1,4 +1,3 @@
-```markdown
 # Frontend-UI-Intern
 
 This is a landing page for an application. The page is built using HTML and styled with CSS. It features a responsive design and provides information about the application's features, download options, FAQs, and contact details.
